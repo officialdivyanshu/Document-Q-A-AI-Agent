@@ -1,0 +1,10 @@
+```txt
+google-generativeai
+faiss-cpu
+sentence-transformers
+pymupdf
+pdfplumber
+tqdm
+numpy
+pandas
+tenacity
