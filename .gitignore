@@ -1,0 +1,14 @@
+# API keys or secrets
+.env
+secrets.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data files (optional)
+*.pdf
+*.csv
+
+# Vector index (optional)
+faiss_index/
